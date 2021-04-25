@@ -1,6 +1,6 @@
 # cricket_scoreboard
 
-I have tried to create reactive cricket scoreboard app which could support multiple matches concurrently and react on various sequencial events happend during the match.It does have snapshot functionality which could geneate immutable score board at any point of time. 
+I have tried to create reactive cricket scoreboard app which could support multiple matches concurrently and react on various sequencial events happend during the match.It does have snapshot functionality which could generate immutable score board at any point of time. 
 
 
 # Sample Reactive app:
